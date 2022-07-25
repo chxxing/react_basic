@@ -1,0 +1,16 @@
+@import url('https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+
+/* 나중에 noto-sans 등 reset 끌어오기 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.big {
+    font-size: 100px;
+}
