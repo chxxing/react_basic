@@ -10,4 +10,5 @@ const Main = ({ dog, work }) => {
 Main.defaultProps = {
     work: '산책하기'
 }
+
 export default Main;
