@@ -15,7 +15,7 @@ function App() {
           <li><a href="">menu04</a></li>
         </ul>
       </nav>
-    </header >
+    </header>
   )
 }
 
